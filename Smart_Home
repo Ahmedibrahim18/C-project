@@ -1,0 +1,7 @@
+	ATmega32 Microcontroller
+	•	LDR (Light Dependent Resistor)
+	•	LM35 Temperature Sensor
+	•	Flame Sensor
+	•	DC Motor with H-Bridge for PWM-based speed control
+	•	Buzzer for fire alarms
+	•	Red, Green, Blue LEDs for lighting control
